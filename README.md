@@ -3,7 +3,9 @@
 Trên Mạng Xã Hội đang rần rần với trend ghép ảnh biến bạn thành nhân vật trong hộp đồ chơi figure cực chất. Ai cũng có thể sở hữu một phiên bản đồ chơi của chính mình, đầy đủ trang phục, phụ kiện và phong cách riêng. Nếu bạn chưa biết cách làm thì đừng lo, dưới đây là hướng dẫn chi tiết cách tạo hình thẻ đồ chơi bằng AI để bạn theo kịp xu hướng hot này. Bạn có thể thực hiện ngay cả trên điện thoại và máy tính đều được nhé.
 ## 1. Prompt Template để tạo hình thẻ đồ chơi bằng AI
 Để có thể tạo hình hộp đồ chơi figure bạn cần sẽ có 1 Prompt Template, bên dưới là Prompt mà mình sưu tầm được, bạn hãy sử dụng nó để tạo ảnh cho chính mình nhé. 
+
 **Prompt 1:**
+
 _A full-figure action figure of a [GENDER] displayed in its original blister pack packaging. 3D toy style. On the top packaging card, the name '[NAME]' is written prominently, with the role '[CAREER]' written below it. The figure represents [TÊN_NGƯỜI] and is wearing [OUTFIT]. Inside the blister pack, next to the figure, are the following accessories: [ACCESSORIES]. The packaging card has a [BOX_DESIGN]. [OPTIONAL_STYLE]. Photorealistic rendering, studio lighting, clear focus on the packaging and figure. --ar 2:3_
 
 Ngoài ra bạn cũng có thể tự sáng tạo thêm nhiều mẫu khác, cũng được không cần phải sử dụng Prompt giống hoàn toàn nha.
