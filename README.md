@@ -12,12 +12,14 @@ Ngoài ra bạn cũng có thể tự sáng tạo thêm nhiều mẫu khác, cũn
 
 **Trong đó, những nội dung bạn cần thay đổi để phù hợp với bản thân như:**
 
-GENDER: Giới tính của nhân vật.
-NAME: Tên của người trong mô hình, sẽ được in lên hộp đồ chơi.
-CAREER: Nghề nghiệp/vai trò của nhân vật.
-OUTFIT: Miêu tả chi tiết ngoại hình, trang phục.
-ACCESSORIES: Các phụ kiện muốn đi kèm theo nhân vật của bạn.
-BOX_DESIGN: Mô tả phong cách thiết kế của hộp và nền phía sau.
+* GENDER: Giới tính của nhân vật. 
+* NAME: Tên của người trong mô hình, sẽ được in lên hộp đồ chơi. 
+* CAREER: Nghề nghiệp/vai trò của nhân vật. 
+* OUTFIT: Miêu tả chi tiết ngoại hình, trang phục. 
+* ACCESSORIES: Các phụ kiện muốn đi kèm theo nhân vật của bạn. 
+* BOX_DESIGN: Mô tả phong cách thiết kế của hộp và nền phía sau. 
+
+
 
 Phần [mô tả], bạn có thể nhập bằng tiếng Việt hay tiếng Anh đều được nhé.
 
