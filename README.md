@@ -1,4 +1,5 @@
 ## Hướng dẫn cách tạo hình thẻ đồ chơi bằng AI cực độc đáo và thú vị
+![image](https://github.com/user-attachments/assets/efa9bfa8-1261-44ba-a2e9-0e7257736bc5)
 ![treddv123](https://github.com/user-attachments/assets/17ecac98-807a-4d62-b4c8-c305a5a05d4e)
 Trên Mạng Xã Hội đang rần rần với trend ghép ảnh biến bạn thành nhân vật trong hộp đồ chơi figure cực chất. Ai cũng có thể sở hữu một phiên bản đồ chơi của chính mình, đầy đủ trang phục, phụ kiện và phong cách riêng. Nếu bạn chưa biết cách làm thì đừng lo, dưới đây là hướng dẫn chi tiết cách tạo hình thẻ đồ chơi bằng AI để bạn theo kịp xu hướng hot này. Bạn có thể thực hiện ngay cả trên điện thoại và máy tính đều được nhé.
 ## 1. Prompt Template để tạo hình thẻ đồ chơi bằng AI
